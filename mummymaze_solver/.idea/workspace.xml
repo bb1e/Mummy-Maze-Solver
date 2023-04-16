@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2bbf73c5-2721-4172-9fdb-080d28c37722" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Niveis/nivel1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Niveis/nivel10.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Niveis/nivel11.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Niveis/nivel12.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Niveis/nivel13.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Niveis/nivel14.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Niveis/nivel15.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Niveis/nivel16.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Niveis/nivel17.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Niveis/nivel18.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Niveis/nivel19.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Niveis/nivel2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Niveis/nivel20.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Niveis/nivel21_v1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Niveis/nivel21_v2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Niveis/nivel22.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Niveis/nivel3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Niveis/nivel4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Niveis/nivel5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Niveis/nivel6.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Niveis/nivel7.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Niveis/nivel8.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Niveis/nivel9.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Niveis/nivel_so_com_heroi.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Niveis/nivel_so_com_heroi_e_paredes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/README.TXT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/Search.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/agent/Action.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/agent/Agent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/agent/Heuristic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/agent/Problem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/agent/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/agent/State.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gui/GameArea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gui/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gui/MainFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gui/Properties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gui/PuzzleTableModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gui/PuzzleTileCellRenderer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mummymaze/ActionDontMove.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mummymaze/ActionDown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mummymaze/ActionLeft.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mummymaze/ActionRight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mummymaze/ActionUp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mummymaze/Coordenadas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mummymaze/Enemy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mummymaze/HeuristicDistanciaInimigoMaisProximo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mummymaze/HeuristicDistanciaSaida.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mummymaze/HeuristicDistanciaSaidaEDistanciaInimigoProximo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mummymaze/MummyMazeAgent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mummymaze/MummyMazeEvent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mummymaze/MummyMazeListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mummymaze/MummyMazeProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mummymaze/MummyMazeState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/searchmethods/AStarSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/searchmethods/BeamSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/searchmethods/BreadthFirstSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/searchmethods/DepthFirstSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/searchmethods/DepthLimitedSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/searchmethods/GraphSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/searchmethods/GreedyBestFirstSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/searchmethods/IDAStarSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/searchmethods/InformedSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/searchmethods/IterativeDeepeningSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/searchmethods/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/searchmethods/SearchMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/searchmethods/Statistics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/searchmethods/UniformCostSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sprites/armadilha.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sprites/chave.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sprites/escadaBaixo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sprites/escadaCima.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sprites/escadaDireita.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sprites/escadaEsquerda.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sprites/escorpiao.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sprites/explorador.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sprites/fundo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sprites/mumiaBranca.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sprites/mumiaVermelha.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sprites/paredeHorizontal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sprites/paredeVertical.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sprites/portaHorizontalAberta.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sprites/portaHorizontalFechada.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sprites/portaVerticalAberta.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sprites/portaVerticalFechada.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/ImageLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/NodeCollection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/NodeLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/NodePriorityQueue.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2OWD9J3wogyZ0RGLd3GooEl77wY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Mummy-Maze-Solver/mummymaze_solver",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="mummymaze_solver" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2bbf73c5-2721-4172-9fdb-080d28c37722" name="Changes" comment="" />
+      <created>1681667294055</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681667294055</updated>
+      <workItem from="1681667295381" duration="32000" />
+      <workItem from="1681667338562" duration="95000" />
+      <workItem from="1681667910141" duration="366000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
